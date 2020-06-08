@@ -14,7 +14,7 @@ The intent of the Team ARG Museum is to provide a place to host archived Team AR
 ## Who Were Team ARG?
 
 Founders:
-* JO3RI - Joeri 
+* JO3RI - Joeri Gantois
 * trodoss
   * [GitHub](https://github.com/trodoss)
 
