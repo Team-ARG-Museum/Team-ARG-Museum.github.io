@@ -14,13 +14,13 @@ The intent of the Team ARG Museum is to provide a place to host archived Team AR
 ## Who Were Team ARG?
 
 Founders:
-* @JO3RI - Joeri 
-* @trodoss
+* JO3RI - Joeri 
+* trodoss
   * [GitHub](https://github.com/trodoss)
 
 Others:
 * STG
-* @Gaveno - Gavin Atkin
+* Gaveno - Gavin Atkin
   * [GitHub](https://github.com/Gaveno)
   *
 * Piquesel - Huard Olivier
