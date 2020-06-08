@@ -13,7 +13,33 @@ The intent of the Team ARG Museum is to provide a place to host archived Team AR
 
 ## Who Were Team ARG?
 
-More content coming soon...
+Founders:
+* @JO3RI - Joeri 
+* @trodoss
+  * [GitHub](https://github.com/trodoss)
+
+Others:
+* STG
+* @Gaveno - Gavin Atkin
+  * [GitHub](https://github.com/Gaveno)
+  *
+* Piquesel - Huard Olivier
+* Siegfried Croes
+  * [Itch](https://siegfriedcroes.itch.io/)
+  * [Twitter](https://twitter.com/SiegfriedCroes)
+  * [Patreon](https://www.patreon.com/SiegfriedCroes)
+* Justin Cyr
+  * [Twitter](https://twitter.com/justin_cyr)
+* Pixel Art M
+  * [Twitter](https://twitter.com/pixelartm)
+* Dragula96
+* Grapple Bug
+  * [Twitter](https://twitter.com/grapplebug)
+* castpixel
+  * [Twitter](https://twitter.com/castpixel)
+* Fuopy
+  * [GitHub](https://github.com/fuopy)
+  * [Twitter](https://twitter.com/fuopy)
 
 ## Repos
 
